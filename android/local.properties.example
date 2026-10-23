@@ -1,0 +1,6 @@
+sdk.dir=/path/to/Android/sdk
+flutter.sdk=/path/to/flutter
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=1
+MAPS_API_KEY=YOUR_ANDROID_MAPS_API_KEY_HERE
